@@ -1,5 +1,5 @@
 # 박원석
-> 간략한 프로젝트 소개 문구를 작성합니다.
+> 개발하기 좋아하는 시니어 개발자입니다.
 > 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
