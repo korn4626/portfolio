@@ -2,8 +2,6 @@
 > 개발하기 좋아하는 19년차 시니어 개발자
 
 
-한 두 문단으로 프로젝트 소개 글을 작성합니다.
-
 ![](../header.png)
 
 ## :pushpin: Intro
@@ -15,6 +13,8 @@
 - 유니콘전자통신 (2004.04 ~ 2005.10)
 - 더존비즈온 (2005.12 ~ )
 
+
+## :pushpin: Project
 ![][tbook]
 스크린 샷과 코드 예제를 통해 사용 방법을 자세히 설명합니다.
 
@@ -61,10 +61,6 @@ XYZ 라이센스를 준수하며 ``LICENSE``에서 자세한 정보를 확인할
 5. 풀리퀘스트를 보내주세요.
 
 <!-- Markdown link & img dfn's -->
-[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/datadog-metrics
-[npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
 [travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
 [travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
-[wiki]: https://github.com/yourname/yourproject/wiki
 [tbook]: https://github.com/korn4626/portfolio/blob/main/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202021-11-16%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%204.05.33.png?raw=true
