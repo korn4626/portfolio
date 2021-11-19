@@ -1,30 +1,21 @@
 # 박원석
-> 개발하기 좋아하는 시니어 개발자입니다.
-> 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
+> 개발하기 좋아하는 19년차 시니어 개발자
+
 
 한 두 문단으로 프로젝트 소개 글을 작성합니다.
 
 ![](../header.png)
 
-## :pushpin: Intro설치 방법
+## :pushpin: Intro
 
-OS X & 리눅스:
 
-```sh
-npm install my-crazy-module --save
-```
+## :pushpin: 경력사항
+- 트립스 (2002.02 ~ 2003.03)
+- 컨시스 (2003.08 ~ 2003.12)
+- 유니콘전자통신 (2004.04 ~ 2005.10)
+- 더존비즈온 (2005.12 ~ )
 
-윈도우:
-
-```sh
-edit autoexec.bat
-```
-
-## 사용 예제
-
+![][tbook]
 스크린 샷과 코드 예제를 통해 사용 방법을 자세히 설명합니다.
 
 _더 많은 예제와 사용법은 [Wiki][wiki]를 참고하세요._
@@ -76,3 +67,4 @@ XYZ 라이센스를 준수하며 ``LICENSE``에서 자세한 정보를 확인할
 [travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
 [travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
 [wiki]: https://github.com/yourname/yourproject/wiki
+[tbook]: https://github.com/korn4626/portfolio/blob/main/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202021-11-16%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%204.05.33.png?raw=true
