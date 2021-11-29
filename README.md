@@ -4,12 +4,10 @@
 ## :pushpin: Intro
 
 ## :pushpin: Contact
-> 이름 : 박원석
-> 
-> 연락처 : 010-3349-2708
-> 
-> 이메일 : korn4626@gmail.com
-> 
+- 이름 : 박원석
+- 연락처 : 010-3349-2708
+- 이메일 : korn4626@gmail.com
+
 
 ## :pushpin: 경력사항 & Project
 > 트립스 (2002.02 ~ 2003.03)
