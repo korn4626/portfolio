@@ -27,10 +27,10 @@
   (VB / SQL Server/Crystal Report) - 홈페이지 DB와 연동
 > 
 ### 2. 컨시스 (2003.08 ~ 2003.12)
-> 1. VAN사와 OnLine / File 전문 송수신 프로그램 개발
+1. VAN사와 OnLine / File 전문 송수신 프로그램 개발
   ( MFC / SQL Server / WinSock / MDI / ADO DB)
 ### 3. 유니콘전자통신 (2004.04 ~ 2005.10)
-> 1. 서울청 무선조회 System
+1. 서울청 무선조회 System
   *SNA Server (OpenTerm 의 HLLAPI.dll 이용 본청 IBM과 통신)
    (MFC, HLLAPI, WInSock)
   *DownLoad Server (OpenTerm 의 HLLAPI.dll 이용 본청 IBM과 통신)
@@ -72,20 +72,20 @@
   * 공통 Control 개발 - Form, Dialog, MessageBox
   * 각종 user Control 개발 - 전표용Grid Control, 자금용 Control
   * 회계, 원천, 물류, 일용노무, 법인/개인 조정, 수임처 관리 모듈 개발/유지보수
- * 그외 각종 util들 개발
+  * 그외 각종 util들 개발
 
 6.Neo IPlus - 아카데미 버젼
   (C#, FireBird DB, FlexGrid등 각종 Grid사용)
   * 기존 IPlus 메뉴들을 FireBird DB용 쿼리로 변경 
 
 7.TBook(간편장부)
-  *Web버젼 개발 - https://tbook.duzon.com
+  * Web버젼 개발 - https://tbook.duzon.com
   (Postgres DB, JSP, JQuery등 사용)
-  *Android용 Mobile버젼 개발
+  * Android용 Mobile버젼 개발
   (Java, Android 2.0 SDK)
 
 8.SmartA
-   NeoIPlus의 차기 버젼으로 현재 각종 모듈 및 Util들을 개발
+  * NeoIPlus의 차기 버젼으로 현재 각종 모듈 및 Util들을 개발
   (C#, Sybase DB, FlexGrid등 각종 Grid사용)
   주요 메뉴들 개발
 
@@ -93,21 +93,21 @@
   SmartA 다음버젼으로 자체 제작한 DB사용(SDB-SQLite Wrapping)
 
 10. Wehago Platform - SmartAX10
-* Wehago 플랫폼내의 MSA 서비스인 SmartAX10 서비스 개발
- * SmartA의 Web버전으로 제작
+  * Wehago 플랫폼내의 MSA 서비스인 SmartAX10 서비스 개발
+  * SmartA의 Web버전으로 제작
 (Backend - Python, Django, Postgresql DB, Elasticsearch, Git)
 (Frontend - React, JavaScript(ECMA6), LunaComponet(material UI 기반 회사 자체 제작 Component), RealGrid, GIt)
- * 주업무는 BackEnd API 개발 (Rest API)
+  * 주업무는 BackEnd API 개발 (Rest API)
    - 각종 Library 제작 (ElasticSearch Helper, PrintHelper, CryptoHelper등 공통 Library)
    - Django MiddleWare 제작(LogMiddleware, 필수 파라미터 체크 middleware, 암호화 키조회 middleware) 
    - 주요 메뉴 Backend 개발 (회계 - 전표 및 재무제표 메뉴, 결산 메뉴 등, 원천 - 퇴직 및 사원등록, 연말정산 간소화, 4대보험 QR신고)
    - 법인 / 개인 조정 모듈 전 메뉴 Process 정립 및 Backend 개발
    - Hybrid 연동으로 SmartA2.0과의 연동 모듈 개발(C#, API개발)
- * FrontEnd 개발
+  * FrontEnd 개발
    - FrontEnd 구조 설정 및 몇개 메뉴 개발
 
 11. Wehago Platform - CoreService
- * Wehago Platform내의 공용 및 Core Service 개발 및 유지보수 
+  * Wehago Platform내의 공용 및 Core Service 개발 및 유지보수 
    - oAuth2.0 개발 및 유지보수(Python, Djnago, oAuth2_provider, ORM 사용)
    - ObjectStorageCommon(Java,Spring, Dell ECS Storage) 유지보수
    - WebOffice(SynapOffice 연동) 유지보수
