@@ -20,10 +20,10 @@
 1. 실시간 (항공, 호텔, 렌트카) 예약 엔진 개발 
   (Gallileo Korea에서 제공하는 OleSelect SDK / MFC / OracleDB / WinSock)
 
-2.일동여행사 (www.ildongtravel.com) 홈페이지 제작
+2. 일동여행사 (www.ildongtravel.com) 홈페이지 제작
   (jsp / java / SQL Server)
 
-3.일동 여행사 고객관리 프로그램 제작
+3. 일동 여행사 고객관리 프로그램 제작
   (VB / SQL Server/Crystal Report) - 홈페이지 DB와 연동
 > 
 ### 2. 컨시스 (2003.08 ~ 2003.12)
@@ -64,32 +64,32 @@
  * 계좌등록, 계좌조회 프로그램 개발 
   (MFC, 기웅정보통신 제공 계좌조회 관련 OCX 사용)
 
-4.메일 알림 프로그램 개발
+4. 메일 알림 프로그램 개발
   (C#, POP3, SMTP)
 
-5.Neo IPlus
+5. Neo IPlus
   (C#, Sybase DB, FlexGrid등 각종 Grid사용)
  * 공통 Control 개발 - Form, Dialog, MessageBox
  * 각종 user Control 개발 - 전표용Grid Control, 자금용 Control
  * 회계, 원천, 물류, 일용노무, 법인/개인 조정, 수임처 관리 모듈 개발/유지보수
  * 그외 각종 util들 개발
 
-6.Neo IPlus - 아카데미 버젼
+6. Neo IPlus - 아카데미 버젼
   (C#, FireBird DB, FlexGrid등 각종 Grid사용)
  * 기존 IPlus 메뉴들을 FireBird DB용 쿼리로 변경 
 
-7.TBook(간편장부)
+7. TBook(간편장부)
  * Web버젼 개발 - https://tbook.duzon.com
   (Postgres DB, JSP, JQuery등 사용)
  * Android용 Mobile버젼 개발
   (Java, Android 2.0 SDK)
 
-8.SmartA
+8. SmartA
  * NeoIPlus의 차기 버젼으로 현재 각종 모듈 및 Util들을 개발
   (C#, Sybase DB, FlexGrid등 각종 Grid사용)
   주요 메뉴들 개발
 
-9.SmartA2.0
+9. SmartA2.0
   SmartA 다음버젼으로 자체 제작한 DB사용(SDB-SQLite Wrapping)
 
 10. Wehago Platform - SmartAX10
